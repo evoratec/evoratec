@@ -1,8 +1,9 @@
 {
   "name": "evoratec",
-  "displayName": "Evoratec",
+  "publisher": "evoratec",
+  "displayName": "Evoratec Theme Dark",
   "description": "Theme for Visual Code from evoratec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
